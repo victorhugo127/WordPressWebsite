@@ -1,0 +1,16 @@
+# WordPress core
+wp-admin/
+wp-includes/
+wp-content/uploads/
+
+# Env
+.env
+
+# OS
+.DS_Store
+
+# Node
+node_modules/
+
+# Logs
+*.log

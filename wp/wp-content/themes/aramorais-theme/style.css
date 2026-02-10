@@ -1,0 +1,13 @@
+/*
+Theme Name: Aramorais Theme
+Theme URI: https://www.aramorais.com
+Author: Aramorais
+Author URI: https://www.aramorais.com
+Description: Institutional theme for Aramorais company
+Version: 1.0.0
+Text Domain: aramorais
+*/
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
